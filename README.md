@@ -34,7 +34,7 @@ To learn more about React Remote Components check out: https://github.com/Paciol
 3XR was modified today (September 9, 2021) to render Remote Components that are served from `external_space`.
 
 
-All of this will be likely changed in the short term and was mostly modified to help a hacker during the MetaBUIDL hack to complete his challenge.
+All of this will be likely changed in the short term and was mostly modified to help a hacker (@sainthiago) during the MetaBUIDL hack to complete his challenge.
 
 
 ## Wallet Connection
