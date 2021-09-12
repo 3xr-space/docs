@@ -36,6 +36,10 @@ To learn more about React Remote Components check out: https://github.com/Paciol
 
 All of this will be likely changed in the short term and was mostly modified to help a hacker [@sainthiago](https://github.com/sainthiago) during the MetaBUIDL hack to complete his challenge.
 
+### How to generate a React component from a glTF file?
+
+Use https://gltf.pmnd.rs/
+
 
 ## Wallet Connection
 
