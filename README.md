@@ -4,7 +4,7 @@ House of relevant [3XR](https://3xr.space) documentation.
 
 ## Wallet Connection
 
-3XR uses [Mintbase.js](https://github.com/Mintbase/mintbase-js) to connect uses to the [NEAR]() wallet.
+3XR uses [Mintbase.js](https://github.com/Mintbase/mintbase-js) to connect users to the [NEAR](https://near.org) wallet.
 
 
 ## Environments: Testnet and Mainnet
