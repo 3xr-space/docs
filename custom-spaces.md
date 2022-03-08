@@ -25,12 +25,6 @@ type Euler = {
   order: string // (ex. "XYZ")
 }
 
-type Scale = {
-  x: number
-  y: number
-  z: number
-}
-
 type FilePreference = {
   MediaType: string // (ex. "model/gltf-binary", see: https://www.iana.org/assignments/media-types/media-types.xhtml)
 }
@@ -38,7 +32,7 @@ type FilePreference = {
 type AssetConfiguration = {
   position: Vector3
   rotation: Euler
-  scale: Scale
+  scale: Vector3
 }
 
 type Reference = {
