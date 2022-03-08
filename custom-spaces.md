@@ -2,7 +2,7 @@
 
 Evolving from the [Custom Galleries](#v1) concept that was first released in October 2021, and launched in January 2022. 
 
-The new standard aims to address the creation of spaces composed of NFTs from other ecosystems.
+The new standard aims to address the minting of an NFT as a space composed of information related to NFTs from other ecosystems. 
 
 ### Space NFT
 
